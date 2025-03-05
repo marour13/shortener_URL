@@ -16,9 +16,9 @@ This is a simple web application built with Streamlit that allows users to short
 
 *Requirements*
 
-To run this application, you need to have Python installed along with the following dependencies:
+· To run this application, you need to have Python installed along with the following dependencies:
 
-pip install streamlit pyshorteners validators
+    pip install streamlit pyshorteners validators
 
 *How to Run*
 
@@ -28,7 +28,7 @@ pip install streamlit pyshorteners validators
 
 3. Run the Streamlit app:
 
-streamlit run shortener_URL.py
+    streamlit run shortener_URL.py
 
 4. Open the provided local URL in your browser.
 
@@ -48,5 +48,5 @@ streamlit run shortener_URL.py
 
 *Author*
 
-Marour13
+    Marour13
 
